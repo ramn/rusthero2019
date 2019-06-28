@@ -1,0 +1,7 @@
+[package]
+name = "rusthero_2019"
+version = "0.1.0"
+authors = ["ramn <github@rymdimperiet.org>"]
+edition = "2018"
+
+[dependencies]
